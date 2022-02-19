@@ -1,0 +1,7 @@
+{
+  "name": "alarmCodeConverter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
